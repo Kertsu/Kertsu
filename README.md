@@ -1,0 +1,1 @@
+[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=Kertsu)](https://github.com/Kertsu/github-readme-profile)
