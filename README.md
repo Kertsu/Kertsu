@@ -12,10 +12,11 @@ const kurtdDaniel = {
   description: "I do not fall in the typical programmer stereotype."
 }
 ```
-  
+
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31nrjddtajenved3tvhaug5kz2oe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" /></div>  
 
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -62,13 +63,13 @@ const kurtdDaniel = {
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/https://github.com/Kertsu" target="_blank">
+<a href="https://github.com/Kertsu" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/https://www.facebook.com/Kertsuuu" target="_blank">
+<a href="https://www.facebook.com/Kertsuuu" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/https://www.instagram.com/_kertsu" target="_blank">
+<a href="https://instagram.com/_kertsu" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -83,15 +84,5 @@ const kurtdDaniel = {
 <br/>  
 
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31nrjddtajenved3tvhaug5kz2oe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" /></div>  
-
-<br/>  
-
-  
-
-<br/>  
-
 <div align="center"></div>
 <br />
-
-----
