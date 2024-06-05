@@ -19,6 +19,7 @@ const kurtdDaniel = {
 <br/>  
 
 ## My Skill Set  
+<div align="center">
 <table><tr><td valign="top" width="33%">
 
 
@@ -50,7 +51,7 @@ const kurtdDaniel = {
 </div>
 
 </td></tr></table>  
-
+</div>
 <br/>  
 
 
