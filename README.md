@@ -1,38 +1,25 @@
-## Hi, I'm Kurtd Daniel Bigtas
-
-<br/>  
-
-## My Skill Set  
 <div align="center">
-<table><tr><td valign="top" width="33%">
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31nrjddtajenved3tvhaug5kz2oe&cover_image=true&theme=default&show_offline=false&background_color=20232a&interchange=false&bar_color=20232a)](https://github.com/kittinan/spotify-github-profile)
 
-
-### Frontend  
-<div align="center">  
-<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kertsu&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<h3 align="center">Languages and Tools</h3>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,angular,nodejs,express,laravel,electron,mongodb,mysql,tailwind" />
+  </a>
+</p>
 
-### Backend  
+<div align="center">
+
 <div align="center">  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Kertsu&theme=react)](https://git.io/streak-stats)
 </div>
 
-</td><td valign="top" width="33%">
 
-
-
-### Databases  
-<div align="center">  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-</div>
-
-</td></tr></table>  
 </div>
