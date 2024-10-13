@@ -4,8 +4,6 @@
 
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kertsu&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <h3 align="center">Languages and Tools</h3>
 
 <p align="center">
@@ -23,3 +21,7 @@
 
 
 </div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kertsu&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
